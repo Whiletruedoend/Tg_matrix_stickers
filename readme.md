@@ -21,10 +21,11 @@ It would be much more logical to have a sorting by the content of the stickers, 
 | Anime question mark | question_mark | @anime_question_mark |
 | Anime eats | eats | @anime_eats |
 | Anime irony | irony | @anime_irony |
+| Anime rage | rage | @anime_rage |
 | Anime shrug | shruggie | @anime_shrug |
-| Anime sulks | sulks | @Anime_Sulks |
-| WTF | wtf | @WTF_Anime_Reaction |
-| Sleep | sleep | @Sleep_Anime_Reaction |
+| Anime sulks | sulks | @anime_sulks |
+| WTF | wtf | @WTF_anime_reaction |
+| Sleep | sleep | @sleep_anime_reaction |
 
 ### Todo
  - More stickers!
