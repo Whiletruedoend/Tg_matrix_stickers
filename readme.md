@@ -28,6 +28,7 @@ It would be much more logical to have a sorting by the content of the stickers, 
 | Anime hmmm | hmmm | @anime_hmmm |
 | WTF | wtf | @WTF_anime_reaction |
 | Sleep | sleep | @sleep_anime_reaction |
+| Neutral | neutral | @neutral_anime_reaction |
 
 ### Todo
  - More stickers!
