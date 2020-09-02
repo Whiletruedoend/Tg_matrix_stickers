@@ -23,6 +23,7 @@ It would be much more logical to have a sorting by the content of the stickers, 
 | Anime irony | irony | @anime_irony |
 | Anime rage | rage | @anime_rage |
 | Anime shrug | shruggie | @anime_shrug |
+| Anime sadness | sadness | @anime_sadness |
 | Anime sulks | sulks | @anime_sulks |
 | WTF | wtf | @WTF_anime_reaction |
 | Sleep | sleep | @sleep_anime_reaction |
