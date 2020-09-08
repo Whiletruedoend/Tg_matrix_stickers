@@ -20,6 +20,7 @@ It would be much more logical to have a sorting by the content of the stickers, 
 | Anime tell me about it | tell_me_about_it | @anime_tell_me_about_it |
 | Anime happiness with hands | happiness_with_hands | @anime_happiness_with_hands |
 | Anime question mark | question_mark | @anime_question_mark |
+| Anime happiness | happiness | @anime_happiness |
 | Anime blush | blush | @anime_blush |
 | Anime eats | eats | @anime_eats |
 | Anime irony | irony | @anime_irony |
