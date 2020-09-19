@@ -15,24 +15,24 @@ It would be much more logical to have a sorting by the content of the stickers, 
 * stickers that simply do not meet our aesthetic criteria
 
 ### Completed packs
-| Name | Folder | @Stickers |
-| ------ | ------ | ------ |
-| Anime tell me about it | tell_me_about_it | @anime_tell_me_about_it |
-| Anime happiness with hands | happiness_with_hands | @anime_happiness_with_hands |
-| Anime question mark | question_mark | @anime_question_mark |
-| Anime happiness | happiness | @anime_happiness |
-| Anime headpats | headpats | @anime_headpats |
-| Anime blush | blush | @anime_blush |
-| Anime eats | eats | @anime_eats |
-| Anime irony | irony | @anime_irony |
-| Anime rage | rage | @anime_rage |
-| Anime shrug | shruggie | @anime_shrug |
-| Anime sadness | sadness | @anime_sadness |
-| Anime sulks | sulks | @anime_sulks |
-| Anime hmmm | hmmm | @anime_hmmm |
-| WTF | wtf | @WTF_anime_reaction |
-| Sleep | sleep | @sleep_anime_reaction |
-| Neutral | neutral | @neutral_anime_reaction |
+| Name                       | Folder               | URL Stickers                                        |
+| ------                     | ------               | ------                                              |
+| Anime tell me about it     | tell_me_about_it     | https://t.me/addstickers/anime_tell_me_about_it     |
+| Anime happiness with hands | happiness_with_hands | https://t.me/addstickers/anime_happiness_with_hands |
+| Anime question mark        | question_mark        | https://t.me/addstickers/anime_question_mark        |
+| Anime happiness            | happiness            | https://t.me/addstickers/anime_happiness            |
+| Anime headpats             | headpats             | https://t.me/addstickers/anime_headpats             |
+| Anime blush                | blush                | https://t.me/addstickers/anime_blush                |
+| Anime eats                 | eats                 | https://t.me/addstickers/anime_eats                 |
+| Anime irony                | irony                | https://t.me/addstickers/anime_irony                |
+| Anime rage                 | rage                 | https://t.me/addstickers/anime_rage                 |
+| Anime shrug                | shruggie             | https://t.me/addstickers/anime_shrug                |
+| Anime sadness              | sadness              | https://t.me/addstickers/anime_sadness              |
+| Anime sulks                | sulks                | https://t.me/addstickers/anime_sulks                |
+| Anime hmmm                 | hmmm                 | https://t.me/addstickers/anime_hmmm                 |
+| WTF                        | wtf                  | https://t.me/addstickers/WTF_anime_reaction         |
+| Sleep                      | sleep                | https://t.me/addstickers/sleep_anime_reaction       |
+| Neutral                    | neutral              | https://t.me/addstickers/neutral_anime_reaction     |
 
 ### Todo
  - More stickers!
