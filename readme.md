@@ -33,6 +33,7 @@ It would be much more logical to have a sorting by the content of the stickers, 
 | WTF                        | wtf                  | https://t.me/addstickers/WTF_anime_reaction         |
 | Sleep                      | sleep                | https://t.me/addstickers/sleep_anime_reaction       |
 | Neutral                    | neutral              | https://t.me/addstickers/neutral_anime_reaction     |
+| Press F for respect        | f_for_respect        | https://t.me/addstickers/anime_f_for_respect        |
 
 ### Todo
  - More stickers!
