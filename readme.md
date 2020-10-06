@@ -14,25 +14,31 @@ It would be much more logical to have a sorting by the content of the stickers, 
 * stickers with non transparent background
 * stickers that simply do not meet our aesthetic criteria
 
+### File structure
+
+Sorted/%Pack_name%/%Counter%              -  sorted
+Sorted/%Pack_name%/%Pack_name%_%Counter%  -  sorted and uploaded
+Unsorted/%Pack_name%/%sticker_name%       -  unsorted
+
 ### Completed packs
 | Name                       | Folder               | URL Stickers                                        |
 | ------                     | ------               | ------                                              |
-| Anime tell me about it     | tell_me_about_it     | https://t.me/addstickers/anime_tell_me_about_it     |
+| Anime tell me about it     | tell_me_about_it     | ---                                                 |
 | Anime happiness with hands | happiness_with_hands | https://t.me/addstickers/anime_happiness_with_hands |
-| Anime question mark        | question_mark        | https://t.me/addstickers/anime_question_mark        |
+| Anime question mark        | question_mark        | ---                                                 |
 | Anime happiness            | happiness            | https://t.me/addstickers/anime_happiness            |
 | Anime headpats             | headpats             | https://t.me/addstickers/anime_headpats             |
 | Anime blush                | blush                | https://t.me/addstickers/anime_blush                |
-| Anime eats                 | eats                 | https://t.me/addstickers/anime_eats                 |
-| Anime irony                | irony                | https://t.me/addstickers/anime_irony                |
+| Anime eats                 | eats                 | ---                                                 |
+| Anime irony                | irony                | ---                                                 |
 | Anime rage                 | rage                 | https://t.me/addstickers/anime_rage                 |
-| Anime shrug                | shruggie             | https://t.me/addstickers/anime_shrug                |
+| Anime shrug                | shruggie             | ---                                                 |
 | Anime sadness              | sadness              | https://t.me/addstickers/anime_sadness              |
 | Anime sulks                | sulks                | https://t.me/addstickers/anime_sulks                |
 | Anime hmmm                 | hmmm                 | https://t.me/addstickers/anime_hmmm                 |
 | WTF                        | wtf                  | https://t.me/addstickers/WTF_anime_reaction         |
 | Sleep                      | sleep                | https://t.me/addstickers/sleep_anime_reaction       |
-| Neutral                    | neutral              | https://t.me/addstickers/neutral_anime_reaction     |
+| Neutral                    | neutral              | https://t.me/addstickers/anime_neutral_reaction     |
 | Press F for respect        | f_for_respect        | https://t.me/addstickers/anime_f_for_respect        |
 
 ### Todo
