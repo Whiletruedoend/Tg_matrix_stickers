@@ -23,7 +23,7 @@ Unsorted/%Pack_name%/%sticker_name%       -  unsorted
 ### Completed packs
 | Name                       | Folder               | URL Stickers                                        |
 | ------                     | ------               | ------                                              |
-| Anime tell me about it     | tell_me_about_it     | ---                                                 |
+| Anime tell me about it     | tell_me_about_it     | https://t.me/addstickers/anime_tell_me_about_it     |
 | Anime happiness with hands | happiness_with_hands | https://t.me/addstickers/anime_happiness_with_hands |
 | Anime question mark        | question_mark        | https://t.me/addstickers/anime_question_mark        |
 | Anime happiness            | happiness            | https://t.me/addstickers/anime_happiness            |
