@@ -29,7 +29,7 @@ Unsorted/%Pack_name%/%sticker_name%       -  unsorted
 | Anime happiness            | happiness            | https://t.me/addstickers/anime_happiness            |
 | Anime headpats             | headpats             | https://t.me/addstickers/anime_headpats             |
 | Anime blush                | blush                | https://t.me/addstickers/anime_blush                |
-| Anime eats                 | eats                 | ---                                                 |
+| Anime eats                 | eats                 | https://t.me/addstickers/anime_eats                 |
 | Anime irony                | irony                | https://t.me/addstickers/anime_irony                |
 | Anime rage                 | rage                 | https://t.me/addstickers/anime_rage                 |
 | Anime shrug                | shrug                | https://t.me/addstickers/anime_shrug                |
