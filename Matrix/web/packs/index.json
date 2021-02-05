@@ -1,0 +1,22 @@
+{
+  "packs": [
+    "anime_neutral_reaction.json",
+    "sleep_anime_reaction.json",
+    "WTF_anime_reaction.json",
+    "anime_hmmm.json",
+    "anime_sulks.json",
+    "anime_sadness.json",
+    "anime_shrug.json",
+    "anime_rage.json",
+    "anime_irony.json",
+    "anime_eats.json",
+    "anime_blush.json",
+    "anime_headpats.json",
+    "anime_happiness.json",
+    "anime_question_mark.json",
+    "anime_happiness_with_hands.json",
+    "anime_tell_me_about_it.json",
+    "anime_f_for_respect.json"
+  ],
+  "homeserver_url": "https://matrix.org"
+}

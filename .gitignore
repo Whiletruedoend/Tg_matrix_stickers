@@ -1,0 +1,13 @@
+/.venv
+/env
+*.pyc
+__pycache__
+*.egg-info
+
+node-modules
+Matrix/web/lib/import-map.json
+Matrix/config.json
+
+*.session
+/*.json
+*.bak
