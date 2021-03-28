@@ -20,6 +20,10 @@ Sorted/%Pack_name%/%Counter%              -  sorted
 Sorted/%Pack_name%/%Pack_name%_%Counter%  -  sorted and uploaded
 Unsorted/%Pack_name%/%sticker_name%       -  unsorted
 
+### Picture requirements
+* Telegram stickers must be PNG images with a transparent background, 512x512 pixels
+* The icon for your sticker pack is optional. If you'd like to have one, design a 100x100 PNG image with a transparent layer.
+ 
 ### Completed packs
 | Name                       | Folder               | URL Stickers                                        |
 | ------                     | ------               | ------                                              |
