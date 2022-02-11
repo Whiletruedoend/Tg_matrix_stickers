@@ -26,6 +26,6 @@
     "snowpack": "^2.10.3"
   },
   "devDependencies": {
-    "node-sass": "^4.14.1"
+    "node-sass": "^7.0.0"
   }
 }
