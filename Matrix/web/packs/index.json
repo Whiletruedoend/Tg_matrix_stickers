@@ -1,5 +1,6 @@
 {
   "packs": [
+    "Alpha1918.json",
     "anime_neutral_reaction.json",
     "sleep_anime_reaction.json",
     "WTF_anime_reaction.json",
@@ -16,7 +17,11 @@
     "anime_question_mark.json",
     "anime_happiness_with_hands.json",
     "anime_tell_me_about_it.json",
-    "anime_f_for_respect.json"
+    "anime_f_for_respect.json",
+    "KantaiConcert.json",
+    "LINE_NEKOMIMI_PARADISE",
+    "HCharlotte",
+    "iscirnobaka"
   ],
   "homeserver_url": "https://matrix.org"
 }

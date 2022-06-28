@@ -42,6 +42,7 @@ if TYPE_CHECKING:
         url: str
         info: MediaInfo
         id: str
+        msgtype: str
 else:
     MediaInfo = None
     StickerInfo = None
@@ -59,6 +60,8 @@ async def load_config(path: str) -> None:
         homeserver_url = input("Homeserver URL: ")
         access_token = input("Access token: ")
         whoami_url = URL(homeserver_url) / "_matrix" / "client" / "r0" / "account" / "whoami"
+        if whoami_url.scheme not in ("https", "http"):
+            whoami_url = whoami_url.with_scheme("https")
         user_id = await whoami(whoami_url, access_token)
         with open(path, "w") as config_file:
             json.dump({
