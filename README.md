@@ -53,7 +53,7 @@ How to use:
 
 1. Open any matrix chat (Used Element client, or use web);
 2. Type: `/devtools`
-3. Select 'Send account data'
+3. Select 'Explore account data'->'Send custom account data event'
 4. Fill following fields:
 
 Event Type:
